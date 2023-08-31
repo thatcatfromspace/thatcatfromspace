@@ -23,6 +23,7 @@
 - 🔭 Student at PSG College of Technology, studying theoretical CS
 - 🌱 Front-end developer 
 - 🦅 Linux afficionado and distro-hopper
+- 🤖 Seasoned at creating Discord bots
 - ⚡ Enthusiastic in learning webdev
 
 <hr>
