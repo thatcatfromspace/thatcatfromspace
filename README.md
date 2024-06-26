@@ -21,7 +21,7 @@
 <h3> About me </h3>
 
 - 🔭 Student at PSG College of Technology, studying theoretical CS
-- 🌱 Full-end developer 
+- 🌱 Full-stack developer 
 - 🦅 Linux afficionado and distro-hopper
 - 🤖 Seasoned at creating Discord bots
 - ⚡ Enthusiastic in learning cloud technology
