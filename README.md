@@ -18,13 +18,7 @@
 
 <hr> 
 
-<h3> About me </h3>
-
-- 🔭 Student at PSG College of Technology, studying theoretical CS
-- 🌱 Full-stack developer 
-- 🦅 Linux afficionado and distro-hopper
-- 🤖 Seasoned at creating Discord bots
-- ⚡ Enthusiastic in learning cloud technology
+Hey! I'm Dinesh and I'm studying theoretical CS @ PSG Tech. I'm a fullstack developer who's aiming to transition into an SDE. I also dabble in machine learning, DevOps and Linux systems.
 
 <hr>
 
