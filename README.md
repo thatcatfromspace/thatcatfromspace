@@ -52,7 +52,7 @@
 <hr>
 
 <div>
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ps8oys3cqn0kwyf5aofbbnr2p&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=ff8000&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ps8oys3cqn0kwyf5aofbbnr2p&redirect=true)
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ps8oys3cqn0kwyf5aofbbnr2p&cover_image=true&theme=natemoore&show_offline=true&background_color=121212&interchange=false&bar_color=ff8000&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ps8oys3cqn0kwyf5aofbbnr2p&redirect=true)
 </div>
 
 <h3> My stats </h3>
