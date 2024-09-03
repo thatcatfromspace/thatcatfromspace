@@ -16,8 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=thatcatfromspace&style=flat-square&color=blue" alt="GithHub views"/>
 </div>
 
-<hr> 
-
 Hey! I'm Dinesh and I'm studying theoretical CS @ PSG Tech. I'm a fullstack developer who's aiming to transition into an SDE. I also dabble in machine learning, DevOps and Linux systems.
 
 <hr>
