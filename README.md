@@ -24,10 +24,10 @@
 
 ### 🚀 About Me  
 
-- 🎓 **Theoretical CS student @ PSG Tech**, diving into the realms of **algorithms** and **networks**.  
+- 🎓 **Theoretical CS student @ PSG Tech**.  
 - 💻 Fullstack Developer transitioning to an **SDE role**.  
 - 🌱 Currently exploring **machine learning**, **DevOps**, and **Linux systems**.  
-- 🎧 When I'm not coding, you’ll find me grooving to music or working on cool side projects.  
+- 🎧 When I'm not coding, you’ll find me listening to music or on Netflix. 
 
 ---
 
