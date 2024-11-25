@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/26gscWqvGY0EsLhMQ/giphy.gif" width="200"/>
+  <img src="feetlicks.png" width="100"/>
   <h1>Hi there, I'm Dinesh! 👋</h1>
   <h3>A Theoretical CS Enthusiast | Fullstack Developer | Linux Explorer 🐧</h3>
 </div>
