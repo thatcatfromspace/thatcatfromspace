@@ -26,7 +26,7 @@
 
 - 🎓 **Theoretical CS student @ PSG Tech**.  
 - 💻 Fullstack Developer transitioning to an **SDE role**.  
-- 🌱 Currently exploring **systemns design**, **DevOps**, and **Linux systems**.  
+- 🌱 Currently exploring **systems design**, **DevOps**, and **Linux systems**.  
 - 🎧 When I'm not coding, you’ll find me listening to music or on Netflix. 
 
 ---
@@ -50,16 +50,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
-</div>
-
----
-
-### 🎵 What's Playing  
-
-<div align="center">
-  <a href="https://spotify-github-profile.kittinan.vercel.app/api/view?uid=ps8oys3cqn0kwyf5aofbbnr2p&redirect=true">
-    <img src="https://spotify-github-profile.kittinan.vercel.app/api/view?uid=ps8oys3cqn0kwyf5aofbbnr2p&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify"/>
-  </a>
 </div>
 
 ---
