@@ -26,7 +26,7 @@
 
 - 🎓 **Theoretical CS student @ PSG Tech**.  
 - 💻 Fullstack Developer transitioning to an **SDE role**.  
-- 🌱 Currently exploring **machine learning**, **DevOps**, and **Linux systems**.  
+- 🌱 Currently exploring **systemns design**, **DevOps**, and **Linux systems**.  
 - 🎧 When I'm not coding, you’ll find me listening to music or on Netflix. 
 
 ---
