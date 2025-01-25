@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="feetlicks.png" width="100"/>
-  <h1>Hi there, I'm Dinesh! 👋</h1>
+  <img src="oddish.gif" width="60" />
+  <h1>Hi there, I'm Dinesh! </h1>
   <h3>A Theoretical CS Enthusiast | Fullstack Developer | Linux Explorer 🐧</h3>
 </div>
 
