@@ -2,9 +2,9 @@
 
 **devops, webdev and a dash of low-level systems + system design**
 
-Theoretical CS student @ [PSG Tech](https://psgtech.edu/)
+pre-final CS major @ [PSG Tech](https://psgtech.edu/)
 <br/>
-Founding member, EWhizard
+founding member, EWhizard
 
 
 - ⚙️ I use daily: `.js`, `.py`, `.cpp`, `.sh`
