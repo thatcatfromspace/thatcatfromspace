@@ -9,4 +9,4 @@ founding member, EWhizard
 
 - ⚙️ I use daily: `.js`, `.py`, `.cpp`, `.sh`
 - 💬 `ping` me about devops, system design, amazon web services, operating systems
-- 🌍 Check out my [portfolio](https://dineshcodes.xyz/) too!
+- 🌍 Check out my [portfolio](https://dineshdoesstuff.xyz/) too!
