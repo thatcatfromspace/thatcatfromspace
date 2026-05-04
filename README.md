@@ -4,7 +4,7 @@
 
 pre-final CS major @ [PSG Tech](https://psgtech.edu/)
 <br/>
-currently building @ [Unbound Security](unboundsecurity.ai)
+currently building @ [Unbound Security](https://unboundsecurity.ai)
 
 
 - ⚙️ I use daily: `.js`, `.py`, `.cpp`, `.sh`
