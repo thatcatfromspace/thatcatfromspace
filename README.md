@@ -4,7 +4,7 @@
 
 pre-final CS major @ [PSG Tech](https://psgtech.edu/)
 <br/>
-founding member, EWhizard
+currently building @ [Unbound Security](unboundsecurity.ai)
 
 
 - ⚙️ I use daily: `.js`, `.py`, `.cpp`, `.sh`
