@@ -2,7 +2,7 @@
 
 **devops, webdev and a dash of low-level systems + system design**
 
-pre-final CS major @ [PSG Tech](https://psgtech.edu/)
+final year CS major @ [PSG Tech](https://psgtech.edu/)
 <br/>
 making agents safer @ [Unbound Security](https://getunbound.ai)
 
