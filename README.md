@@ -4,7 +4,7 @@
 
 final year CS major @ [PSG Tech](https://psgtech.edu/)
 <br/>
-making agents safer @ [Unbound Security](https://getunbound.ai)
+making agents safer @ [Unbound](https://getunbound.ai)
 
 
 - ⚙️ I use daily: `.js`, `.py`, `.cpp`, `.sh`
