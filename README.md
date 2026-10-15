@@ -7,7 +7,7 @@ final year CS major @ [PSG Tech](https://psgtech.edu/)
 making agents safer @ [Unbound](https://getunbound.ai)
 <br/>
 <br/>
-Unserious quizmaster @ [The Vina Collective](https://thevinacollective.in/)
+unserious quizmaster @ [The Vina Collective](https://thevinacollective.in/)
 
 
 - ⚙️ I use daily: `.js`, `.py`, `.cpp`, `.sh`
